@@ -76,6 +76,6 @@ streamlit run weather_track.py
 
 ## Author
 
-Created by Dania Mohammed
+Created by Nadia Mohammed
 
 Python Fundamentals Project
