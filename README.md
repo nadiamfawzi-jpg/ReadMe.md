@@ -35,6 +35,7 @@ This project demonstrates the use of Python fundamentals including functions, fi
 
 ```
 WeatherTracker/
+
 - weather_track.py
 - Weather_utils.py
 - Data.csv
