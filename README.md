@@ -35,12 +35,12 @@ This project demonstrates the use of Python fundamentals including functions, fi
 
 ```
 WeatherTracker/
-│
-├── weather_track.py
-├── weather_utils.py
-├── Data.csv
-├── README.md
-└── requirements.txt
+
+ -  weather_track.py
+ - weather_utils.py
+ - Data.csv
+ - README.md
+ - requirements.txt
 ```
 
 ---
